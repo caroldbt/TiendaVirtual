@@ -1,5 +1,5 @@
 # Tienda Virtual
-Imagen/fotosWeb1.png
+(https://github.com/caroldbt/TiendaVirtual/blob/ae421cfd182ced30af34e1605b8308c2aa169dd7/Imagen/fotosWeb1.png)
 Breve descripción del proyecto y su propósito.
 
 ## Tecnologías Utilizadas
