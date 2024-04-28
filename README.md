@@ -1,5 +1,5 @@
 # Tienda Virtual
-
+Imagen/fotosWeb1.png
 Breve descripción del proyecto y su propósito.
 
 ## Tecnologías Utilizadas
