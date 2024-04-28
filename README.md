@@ -1,6 +1,9 @@
 # Tienda Virtual
-(https://github.com/caroldbt/TiendaVirtual/blob/ae421cfd182ced30af34e1605b8308c2aa169dd7/Imagen/fotosWeb1.png)
-<img src="https://github.com/caroldbt/TiendaVirtual/blob/ae421cfd182ced30af34e1605b8308c2aa169dd7/Imagen/fotosWeb1.png" alt="Proyecto de Tienda Virtual>
+<DOCTYPE html>
+    <body>
+    <img src="https://github.com/caroldbt/TiendaVirtual/blob/ae421cfd182ced30af34e1605b8308c2aa169dd7/Imagen/fotosWeb1.png" alt="Proyecto de Tienda Virtual>
+      </body>
+</html>
 Breve descripción del proyecto y su propósito.
 
 ## Tecnologías Utilizadas
