@@ -3,7 +3,7 @@
     <body>
         <div style="text-align:center;">
             <h1>Tienda Virtual</h1>
-        <img src="https://github.com/caroldbt/TiendaVirtual/blob/ae421cfd182ced30af34e1605b8308c2aa169dd7/Imagen/fotosWeb1.png" alt="Proyecto de Tienda Virtual" width="500px" height="500px">
+        <img src="https://github.com/caroldbt/TiendaVirtual/blob/ae421cfd182ced30af34e1605b8308c2aa169dd7/Imagen/fotosWeb1.png" alt="Proyecto de Tienda Virtual" width="700px" height="700px">
         </div>
       </body>
 </html>
