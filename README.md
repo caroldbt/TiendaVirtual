@@ -1,5 +1,10 @@
-# Tienda Virtual
 
+<DOCTYPE html>
+    <body>
+        <h1 text="center">Tienda Virtual</h1>
+    <img src="https://github.com/caroldbt/TiendaVirtual/blob/ae421cfd182ced30af34e1605b8308c2aa169dd7/Imagen/fotosWeb1.png" alt="Proyecto de Tienda Virtual" width="500px" height="500px" center>
+      </body>
+</html>
 Breve descripción del proyecto y su propósito.
 
 ## Tecnologías Utilizadas
@@ -56,8 +61,4 @@ Este proyecto está bajo la licencia Carol Burgos. Consulta el archivo LICENSE p
 ## Contacto
 
 Para cualquier pregunta o comentario, no dudes en ponerte en contacto con Carol Burgos en https://www.linkedin.com/in/carol-burgos.
-<DOCTYPE html>
-    <body>
-    <img src="https://github.com/caroldbt/TiendaVirtual/blob/ae421cfd182ced30af34e1605b8308c2aa169dd7/Imagen/fotosWeb1.png" alt="Proyecto de Tienda Virtual" width="500px" height="500px" >
-      </body>
-</html>
+
