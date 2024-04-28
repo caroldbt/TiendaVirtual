@@ -1,8 +1,10 @@
 
 <DOCTYPE html>
     <body>
-        <h1 text="center">Tienda Virtual</h1>
-    <img src="https://github.com/caroldbt/TiendaVirtual/blob/ae421cfd182ced30af34e1605b8308c2aa169dd7/Imagen/fotosWeb1.png" alt="Proyecto de Tienda Virtual" width="500px" height="500px" center>
+        <div style="text-align:center;">
+        <h1>Tienda Virtual</h1>
+    <img src="https://github.com/caroldbt/TiendaVirtual/blob/ae421cfd182ced30af34e1605b8308c2aa169dd7/Imagen/fotosWeb1.png" alt="Proyecto de Tienda Virtual" width="500px" height="500px">
+        </div>
       </body>
 </html>
 Breve descripción del proyecto y su propósito.
